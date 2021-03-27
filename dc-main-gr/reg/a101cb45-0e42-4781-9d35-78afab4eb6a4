@@ -1,0 +1,9 @@
+# This file was populated via register-server.sh script
+
+[server_info]
+
+UUID=a101cb45-0e42-4781-9d35-78afab4eb6a4
+HOSTNAME=cfg-srv-main
+OS=Ubuntu
+VER=20.04
+
